@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>45421B2E-D746-4908-9589-806092442B3D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Yahoo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CBBE70CA-44E7-4052-A9FE-61FB2E645088</key>
+		<string>ssh://github.com/paulsfds/newsreader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Yahoo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CBBE70CA-44E7-4052-A9FE-61FB2E645088</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/paulsfds/newsreader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CBBE70CA-44E7-4052-A9FE-61FB2E645088</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CBBE70CA-44E7-4052-A9FE-61FB2E645088</string>
+			<key>IDESourceControlWCCName</key>
+			<string>newsreader</string>
+		</dict>
+	</array>
+</dict>
+</plist>
